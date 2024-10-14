@@ -18,12 +18,13 @@ Check out our photo albums from our past events [here](https://www.facebook.com/
 
 Our flagship event is HackOMania, an annual 24-hour hackathon that brings together tech enthusiasts, students, and working professionals to tackle real-world issues using innovative tech solutions.
 
-We have organized HackOMania since 2017. We are currently planning for HackOMania 2025, if you're interested in sponsoring or participating, please [get in touch with us](#contact-us).
+We have organized HackOMania since 2016. We are currently planning for HackOMania 2025, if you're interested in sponsoring or participating, please [get in touch with us](#contact-us).
 
 - [HackOMania 2024](https://hackomania2024.geekshacking.com/), Sat 6 Apr 2024
 - [HackOMania 2019](https://hackomania2019.geekshacking.com/), Sat 23 Feb 2019
 - [HackOMania 2018](https://hackomania2018.geekshacking.com/), Sat 24 Feb 2018
-- HackOMania 2017, Sat 4 Mar 2017
+- [HackOMania 2017](https://www.facebook.com/media/set/?set=oa.397402217293812&type=3), Sat 4 Mar 2017
+- [HackOMania 2016](https://www.facebook.com/media/set/?set=oa.206132056420830&type=3), Sat 18 Mar 2016
 
 ### Workshops and Events
 
@@ -31,7 +32,7 @@ We regularly organize workshops and events to foster learning, networking, and c
 
 Here's a list of our recent and past events:
 
-- Building with Flutter, Sat 12 Oct 2024
+- [Building with Flutter](https://github.com/GeeksHacking/flutter-ios-calculator), Sat 12 Oct 2024
 - [Developing GenAI Application with LangChain](https://github.com/GeeksHacking/GenAI-workshop), Sat 13 Jul 2024
 - [Game On! (with Godot)](https://github.com/GeeksHacking/godot_workshop_jan2024), Sat 20 Jan 2024
 - [Build with Bun](https://github.com/GeeksHacking/geekshacking-bun-workshop), Sat 4 Nov 2023
@@ -44,10 +45,10 @@ Here's a list of our recent and past events:
 - [Intro to VueJS](https://github.com/GeeksHacking/vuejs-workshop), Sat 2 Nov 2021
 - [Dealing with Containerization](https://github.com/GeeksHacking/docker-workshop), Sat 7 Sept 2021
 - Python 101, Sat 1 Jun 2021
-- Tech Tarik Sat - Strrrrrreeeeeetch your imagination, Sat 2 Feb 2019
+- Tech Tarik Sat - Strrrrrreeeeeetch your imagination, HackOMania 2019 Pre-Event Sat 2 Feb 2019
 - What In The World Is UX, Sat 10 Nov 2018
 - [Android for Beginners](https://github.com/GeeksHacking/android-workshop), Sat 8 Sept 2018
-- Swift for Beginners, Sat 2 Jun 2018
+- [Swift for Beginners](https://github.com/GeeksHacking/swift-for-beginners), Sat 2 Jun 2018
 - [Telegram Bot](https://github.com/GeeksHacking/telegram-bot-workshop), 24 Feb 2018
 - [React Native Basics](https://github.com/GeeksHacking/react-native-workshop), Sat 11 Nov 2017
 - Getting Started with Machine Learning using Google APIs, Fri 1 Sept 2017
