@@ -18,9 +18,9 @@ Check out our photo albums from our past events [here](https://www.facebook.com/
 
 Our flagship event is HackOMania, an annual 24-hour hackathon that brings together tech enthusiasts, students, and working professionals to tackle real-world issues using innovative tech solutions.
 
-We have organized HackOMania since 2016. We are currently planning for HackOMania 2025, if you're interested in sponsoring or participating, please [get in touch with us](#contact-us).
+We have organized HackOMania since 2016.
 
-- [HackOMania 2025](https://hackomania2025.geekshacking.com/), _Upcoming_: Sat 15 Feb 2025
+- [HackOMania 2025](https://hackomania2025.geekshacking.com/), Sat 15 Feb 2025
 - [HackOMania 2024](https://hackomania2024.geekshacking.com/), Sat 6 Apr 2024
 - [HackOMania 2019](https://hackomania2019.geekshacking.com/), Sat 23 Feb 2019
 - [HackOMania 2018](https://hackomania2018.geekshacking.com/), Sat 24 Feb 2018
