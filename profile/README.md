@@ -20,7 +20,7 @@ Our flagship event is HackOMania, an annual 24-hour hackathon that brings togeth
 
 We have organized HackOMania since 2016.
 
-- [HackOMania 2025](https://hackomania2026.geekshacking.com/), Sat 7 Mar 2026
+- [HackOMania 2026](https://hackomania2026.geekshacking.com/), Sat 7 Mar 2026
 - [HackOMania 2025](https://hackomania2025.geekshacking.com/), Sat 15 Feb 2025
 - [HackOMania 2024](https://hackomania2024.geekshacking.com/), Sat 6 Apr 2024
 - [HackOMania 2019](https://hackomania2019.geekshacking.com/), Sat 23 Feb 2019
