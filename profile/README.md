@@ -34,6 +34,9 @@ We regularly organize workshops and events to foster learning, networking, and c
 
 Here's a list of our recent and past events:
 
+- [Powering AI with MCP](https://github.com/GeeksHacking/mcp-workshop), Sat 1 Nov 2025
+- Git Ready for Action, Sat 30 Aug 2025
+- Season of AI Agents, Sat 17 May 2025
 - [Building with Flutter](https://github.com/GeeksHacking/flutter-ios-calculator), Sat 12 Oct 2024
 - [Developing GenAI Application with LangChain](https://github.com/GeeksHacking/GenAI-workshop), Sat 13 Jul 2024
 - [Game On! (with Godot)](https://github.com/GeeksHacking/godot_workshop_jan2024), Sat 20 Jan 2024
