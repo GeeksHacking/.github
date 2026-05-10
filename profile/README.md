@@ -34,7 +34,7 @@ We regularly organize workshops and events to foster learning, networking, and c
 
 Here's a list of our recent and past events:
 
-- [Beyond the Vibes]([https://github.com/GeeksHacking/mcp-workshop](https://docs.google.com/presentation/d/1thhjYD3alm1M_ohAcFzYFM1CiMLcarH1AR-423yj20U/edit?slide=id.g35f391192_00#slide=id.g35f391192_00), Sat 9 May 2026
+- [Beyond the Vibes](https://docs.google.com/presentation/d/1thhjYD3alm1M_ohAcFzYFM1CiMLcarH1AR-423yj20U/edit?slide=id.g35f391192_00#slide=id.g35f391192_00), Sat 9 May 2026
 - [Powering AI with MCP](https://github.com/GeeksHacking/mcp-workshop), Sat 1 Nov 2025
 - Git Ready for Action, Sat 30 Aug 2025
 - Season of AI Agents, Sat 17 May 2025
